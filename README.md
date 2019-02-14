@@ -1,6 +1,6 @@
 **Introduction** <br/>
 This is was one of my first attempt with creating a database via
-.txt files. I used a PrintWriter and Scanner along with a few nested
+.txt files (9/12/18). I used a PrintWriter and Scanner along with a few nested
 for-loop algorithm to add and remove rows.
 
 
